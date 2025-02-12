@@ -14,7 +14,7 @@ Link for our discord server:-
 ### They are:-
 *Btplayzxgit*:- *My first eaglerbrother who fell prey to Mojang. AR*
 ###
-*FlamePvPCodes now known as Burvyn*:- *My second eaglerbrother who fell prey to Mojang. AR*
+*FlamePvPCodes now known as Bwrn*:- *My second eaglerbrother who fell prey to Mojang. AR*
 ###
 *RaveTek*:- *My third eaglerbrother, the one who tried to bring us together again but fell prey to Mojang. AR*
 ###
