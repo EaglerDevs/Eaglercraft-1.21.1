@@ -18,11 +18,11 @@ If you want to **DMCA** us, read this [DMCA NOTICE](https://github.com/EaglerDev
 ### They are:-
 *Btplayzxgit*:- *My first eaglerbrother who fell prey to Mojang. AR*
 ###
-*FlamePvPCodes now known as Bwrn*:- *My second eaglerbrother who fell prey to Mojang. AR*
+*FlamePvPCodes now known as Bwrn*:- *My second eaglerbrother who fell prey to Mojang who is now back*
 ###
 *RaveTek*:- *My third eaglerbrother, the one who tried to bring us together again but fell prey to Mojang. AR*
 ###
-*TylerTealDev*:- *My fourth eaglerbrother who fell prey to Mojang. AR*
+*TylerTealDev*:- *My fourth eaglerbrother who fell prey to Mojang and Eaglercraft Kids. AR*
 ### ***Their acts & sacrifices will not be forgotten, we have united, Mojang. Expect Us...***
 # Status
 # 🚧 1.21.4's Status: In development 🚧
@@ -30,4 +30,5 @@ This project is currently in the development phase. We have begun development. C
 
 This project is not a feature port like EaglyMC!
 # NOTE:-
-***The project only mimic's Minecraft like behaviour, it is not MineCraft but is Eaglercraft. It doesn't use MineCraft's source, maybe? IDk, mate. It cant be taken down because it doesn't violate the EULA, but we never agreed to it. Regards, The Developers, EaglerDevs***
+***this project mimics minecraft functionality but is not using minecraft code. minecraft does not own trademark or idea of blocky world to explore
+<br> Regards, The Developers, EaglerDevs***
