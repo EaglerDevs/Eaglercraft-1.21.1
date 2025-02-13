@@ -11,6 +11,8 @@ If you want to **DMCA** us, read this [DMCA NOTICE](https://github.com/EaglerDev
 ###
 *AR-DEV-1*
 ###
+*Bwrn*
+###
 *samuel gibson aka nceslausuryoiasdo*
 ### **And let's take a moment to remember all of our fallen eagler brothers...😥**
 ### They are:-
