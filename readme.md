@@ -1,6 +1,6 @@
-# Eaglercraft 1.21.1
+# Eaglercraft 1.21.4
 
-test of eaglercraft 1.21, still in dev
+test of eaglercraft 1.21.4, still in dev
 ### 
 Link for our discord server:- 
 [EaglerDevs Discord Server](https://discord.gg/DDFqkwVSyb)
@@ -21,7 +21,7 @@ Link for our discord server:-
 *TylerTealDev*:- *My fourth eaglerbrother who fell prey to Mojang. AR*
 ### ***Their acts & sacrifices will not be forgotten, we have united, Mojang. Expect Us...***
 # Status
-# 🚧 1.21 Status: In development 🚧
+# 🚧 1.21.4's Status: In development 🚧
 This project is currently in the development phase. We have begun development. Check back soon for updates!
 
 This project is not a feature port like EaglyMC!
