@@ -5,7 +5,7 @@ test of eaglercraft 1.21.4, still in dev
 Link for our discord server:- 
 [EaglerDevs Discord Server](https://discord.gg/DDFqkwVSyb)
 ###
-If you want to **DMCA** us, read this [DMCA NOTICE](https://github.com/EaglerDevs/Eaglercraft-1.21.4/new/main#iii-for-microsoft-mojang-or-their-legal-team-who-are-about-to-dmca-us)
+If you want to **DMCA** us, read this [DMCA NOTICE](https://github.com/EaglerDevs/Eaglercraft-1.21.4/blob/main/License.md#iii-for-microsoft-mojang-or-their-legal-team-who-are-about-to-dmca-us)
 # DEVS
 **The developers are:-**
 ###
