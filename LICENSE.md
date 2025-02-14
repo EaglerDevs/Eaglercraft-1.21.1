@@ -17,7 +17,7 @@
 <!-- TOC --><a name="copyright-c-eaglerdevs"></a>
 ### Copyright (c) EaglerDevs
 <!-- TOC --><a name="created-by-ar-dev-1-samuel-gibson-bwrn"></a>
-#### Created by AR-DEV-1, Samuel Gibson, Bwrn
+#### Created by AR-DEV-1, Samuel Gibson, & Bwrn of EaglerDevs
 
 <!-- TOC --><a name="attribution"></a>
 ## Attribution
